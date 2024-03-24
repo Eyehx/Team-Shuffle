@@ -2,7 +2,7 @@
 
 Draw times in League of Legends.
 
-Determine Names and Ranges (Positions) to classify a formed team, avoiding reproduction.
+Determine Names and Lanes (Positions) to classify a formed team, avoiding reproduction.
 
 >> [Versão PT-BR](README_ptbr.md)
 
