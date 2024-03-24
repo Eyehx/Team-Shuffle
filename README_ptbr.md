@@ -1,4 +1,4 @@
-# Embaralhamento de equipe
+# Embaralhamento de equipe 👥
 
 Faça sorteio de times no League of Legends.
 
