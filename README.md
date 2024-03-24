@@ -1,4 +1,4 @@
-# Team Shuffle
+# Team Shuffle 👥
 
 Draw times in League of Legends.
 
