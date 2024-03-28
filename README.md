@@ -8,7 +8,7 @@ Determine Names and Lanes (Positions) to classify a formed team, avoiding reprod
 
 ### Settings
 
-- Run the `main.py` file to run the code
+- Run the `teamshuffle.py` file to run the code
 
 ## How to use
 
