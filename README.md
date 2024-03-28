@@ -14,4 +14,4 @@ Determine Names and Lanes (Positions) to classify a formed team, avoiding reprod
 
 ### With command line
 
-Command Terminal (Already in stock): python3 main.py
+Command Terminal (Already in stock): python3 teamshuffle.py
