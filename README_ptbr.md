@@ -8,10 +8,10 @@ Determine Nomes e Lanes(Posições) para sortear um time formado, evitando repet
 
 ### Configurações
 
-- Execute o arquivo `main.py` para executar o código
+- Execute o arquivo `teamshuffle.py` para executar o código
 
 ## Como Usar
 
 ### Com linha de comando
 
-Comando Terminal (Já na pasta): python3 main.py
+Comando Terminal (Já na pasta): python3 teamshuffle.py
